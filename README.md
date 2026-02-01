@@ -1,6 +1,7 @@
 # 🔍 Selection Sort Visualizer
-<img width="2559" height="1301" alt="image" src="https://github.com/user-attachments/assets/f72b5f1e-ac04-4126-8913-e90246733324" />
 An interactive and animated **Selection Sort algorithm visualizer** built using **JavaScript and D3.js**, designed to make algorithm learning intuitive through real-time visual feedback and user-controlled animations.
+
+<img width="2559" height="1301" alt="image" src="https://github.com/user-attachments/assets/f72b5f1e-ac04-4126-8913-e90246733324" />
 
 ---
 
@@ -62,9 +63,3 @@ Graphical comparison of **best, average, and worst-case time complexities** usin
 ## 📌 Summary
 
 This project transforms the abstract logic of sorting algorithms into an **interactive and visually engaging learning experience**, combining algorithmic accuracy with thoughtful UI design. It also serves as a strong demonstration of **frontend visualization skills and algorithmic thinking**.
-
----
-
-## 📄 License
-
-This project is open-source and available for educational use.
