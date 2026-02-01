@@ -1,56 +1,70 @@
-🔍 Selection Sort Visualizer
-An interactive and animated visualizer for the Selection Sort algorithm, built using JavaScript and D3.js. This tool offers a more engaging way to understand how Selection Sort works through real-time animations and intuitive UI controls.
+# 🔍 Selection Sort Visualizer
+<img width="2559" height="1301" alt="image" src="https://github.com/user-attachments/assets/f72b5f1e-ac04-4126-8913-e90246733324" />
+An interactive and animated **Selection Sort algorithm visualizer** built using **JavaScript and D3.js**, designed to make algorithm learning intuitive through real-time visual feedback and user-controlled animations.
 
-🎯 Purpose
-To make learning sorting algorithms more interactive, visual, and accessible — especially for students and educators seeking to understand the step-by-step process of Selection Sort.
+---
 
-🚀 Key Features
-🎲 Random Array Generation
-Instantly generate an array of 20 random integers (between 10–99) represented as vertical bars.
+## 🎯 Objective
 
-🌀 Live Sorting Animation
-Watch the Selection Sort algorithm in action — elements being compared, minimum selection, and swaps are visually represented.
+To simplify the understanding of **Selection Sort** by visually demonstrating each step of the algorithm. This project is especially useful for **students, educators, and beginners** learning algorithms and data structures.
 
-🎨 Color-Coded Visuals
+---
 
-Current index being checked: Yellow
+## 🚀 Features
 
-Minimum element: Red
+### 🎲 Random Array Generation  
+Generate an array of 20 random integers (range: 10–99), displayed as vertical bars for easy comparison.
 
-Swapped elements: Green
+### 🌀 Live Sorting Animation  
+Watch the Selection Sort algorithm in action as elements are compared, minimum values are selected, and swaps are performed in real time.
 
-Sorted part: Light Blue
+### 🎨 Color-Coded Visualization  
+- **Current index:** Yellow  
+- **Minimum element:** Red  
+- **Swapped elements:** Green  
+- **Sorted section:** Light Blue  
 
-⏸️ Pause/Stop Anytime
-Users can pause the animation midway to analyze or explain steps manually.
+### ⏸️ Pause & Stop Controls  
+Pause or stop the animation at any moment to analyze or explain individual steps.
 
-💬 Real-Time Status Updates
-Detailed text explanations update below the visualizer to describe each step.
+### 💬 Real-Time Status Updates  
+Dynamic text explanations describe the current operation during the sorting process.
 
-🌙 Dark Mode Toggle
-Easily switch between light and dark themes. The entire interface — from icons and charts to labels and sliders — adapts for readability and aesthetics.
+### 🌙 Dark Mode Support  
+Toggle between light and dark themes with full UI adaptation for improved readability.
 
-⚡ Speed Control
-Adjust the animation speed to match your learning pace.
+### ⚡ Speed Control  
+Adjust animation speed to suit different learning preferences.
 
-🔁 Rewind Functionality
-Step back to revisit previous actions during the sorting process.
+### 🔁 Rewind Capability  
+Step backward to revisit previous operations in the sorting sequence.
 
-📈 Performance Analysis (Coming Soon)
-View a basic comparison of best, average, and worst-case time complexities using a graph (using Chart.js).
+### 📈 Performance Analysis *(Planned)*  
+Graphical comparison of **best, average, and worst-case time complexities** using Chart.js.
 
-🌐 Live Demo
-Check out the live version here:
-🔗 https://aoaproject.vercel.app
+---
 
-📂 Tech Stack
-HTML5 / CSS3
+## 🌐 Live Demo
 
-JavaScript (Vanilla)
+🔗 **Live Application:** https://aoaproject.vercel.app
 
-D3.js for dynamic SVG-based data rendering
+---
 
-Chart.js for performance graphs
+## 🛠️ Tech Stack
 
-📌 Summary
-This visualizer reimagines algorithm learning by combining interactive elements, animated sorting logic, and user-friendly design — perfect for making abstract concepts more tangible and fun.
+- **HTML5 / CSS3**  
+- **JavaScript (Vanilla)**  
+- **D3.js** – SVG-based data visualization  
+- **Chart.js** – Performance analysis graphs *(upcoming)*
+
+---
+
+## 📌 Summary
+
+This project transforms the abstract logic of sorting algorithms into an **interactive and visually engaging learning experience**, combining algorithmic accuracy with thoughtful UI design. It also serves as a strong demonstration of **frontend visualization skills and algorithmic thinking**.
+
+---
+
+## 📄 License
+
+This project is open-source and available for educational use.
